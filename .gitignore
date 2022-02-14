@@ -1,3 +1,7 @@
+# Hello JetBrains
+.idea/*
+.DS_store
+
 # Binaries for programs and plugins
 *.exe
 *.exe~
